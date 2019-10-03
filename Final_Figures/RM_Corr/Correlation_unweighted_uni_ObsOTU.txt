@@ -1,0 +1,24 @@
+	r	dof	pval	CI95%	power	name	sig
+rm_corr	0.578	62.0	5.779250938738556e-07	[0.39, 0.72]	0.999	time_point	TRUE
+rm_corr	-0.725	62.0	1.2793054132733851e-11	[-0.82, -0.58]	1.0	observed_otus	TRUE
+rm_corr	0.177	62.0	0.16185734719368616	[-0.07, 0.41]	0.29	creatinine	FALSE
+rm_corr	0.399	62.0	0.0010861720440429156	[0.17, 0.59]	0.914	CAF_caffeine	TRUE
+rm_corr	0.073	62.0	0.5663662265261786	[-0.18, 0.31]	0.088	DEX_dextromethorphan	FALSE
+rm_corr	0.35	62.0	0.00458677606349496	[0.11, 0.55]	0.819	MDZ_midazolam	TRUE
+rm_corr	0.489	62.0	4.076978071889806e-05	[0.28, 0.66]	0.988	CAF_methylxanthine	TRUE
+rm_corr	0.255	62.0	0.04175694727875073	[0.01, 0.47]	0.537	DEX_3hydroxymorphinan	TRUE
+rm_corr	0.282	62.0	0.023905850484108527	[0.04, 0.49]	0.626	DEX_3methoxymorphinan	TRUE
+rm_corr	0.231	62.0	0.06583830836984458	[-0.02, 0.45]	0.457	MDZ_5hydroxyMDZ	FALSE
+rm_corr	0.254	62.0	0.042467862152309646	[0.01, 0.47]	0.534	MDZ_hydroxyMDZ_glucuronide	TRUE
+rm_corr	0.453	62.0	0.0001683249940559606	[0.23, 0.63]	0.97	OME1_Omeprazole	TRUE
+rm_corr	0.394	62.0	0.0012667384154513397	[0.16, 0.58]	0.906	OME3_Omeprazole_sulfide	TRUE
+rm_corr	0.289	62.0	0.020716583451064616	[0.05, 0.5]	0.647	OME4_Omeprazole_sulfone	TRUE
+rm_corr	0.326	62.0	0.00848471544563705	[0.09, 0.53]	0.759	OME5_Hydroxyomeprazole	TRUE
+rm_corr	0.344	62.0	0.005401302834682996	[0.11, 0.54]	0.805	OME7_Hydroxyomeprazole_sulfide	TRUE
+rm_corr	0.218	62.0	0.08382255676138571	[-0.03, 0.44]	0.413	OME11_Carboxyomeprazole	FALSE
+rm_corr	0.041	62.0	0.7453554755030096	[-0.21, 0.28]	0.062	OME13_Carboxyomeprazole_sulfide	FALSE
+rm_corr	0.355	62.0	0.0039685680785982265	[0.12, 0.55]	0.832	OME15_Carboxyomeprazole_sulfone	TRUE
+rm_corr	0.058	62.0	0.6470051212649013	[-0.19, 0.3]	0.074	OME17_5_O_desmethylomeprazole	FALSE
+rm_corr	0.338	62.0	0.006252916793986481	[0.1, 0.54]	0.791	OME1920_O_desmethylomeprazole_sulfide	TRUE
+rm_corr	0.176	62.0	0.1633938601527419	[-0.07, 0.4]	0.288	OME27_Omeprazole_sulfide_O_glucuronide	FALSE
+rm_corr	0.352	62.0	0.004298226928295363	[0.12, 0.55]	0.825	OME29_Omeprazole_sulfide_4_O_glucuronide	TRUE

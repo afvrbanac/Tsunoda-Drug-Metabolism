@@ -1,0 +1,23 @@
+	r	dof	pval	CI95%	power	name	sig
+rm_corr	-0.607	75.0	4.865189591933027e-09	[-0.73, -0.44]	1.0	time_point	TRUE
+rm_corr	-0.158	75.0	0.16990877444718136	[-0.37, 0.07]	0.281	creatinine	FALSE
+rm_corr	-0.373	75.0	0.0008305643336478972	[-0.55, -0.16]	0.924	CAF_caffeine	TRUE
+rm_corr	-0.132	75.0	0.25291037556773954	[-0.35, 0.09]	0.209	DEX_dextromethorphan	FALSE
+rm_corr	-0.422	75.0	0.0001295494011607192	[-0.59, -0.22]	0.974	MDZ_midazolam	TRUE
+rm_corr	-0.516	75.0	1.5980220628329857e-06	[-0.66, -0.33]	0.999	CAF_methylxanthine	TRUE
+rm_corr	-0.127	75.0	0.27163742016983095	[-0.34, 0.1]	0.197	DEX_3hydroxymorphinan	FALSE
+rm_corr	-0.195	75.0	0.08969058998999661	[-0.4, 0.03]	0.4	DEX_3methoxymorphinan	FALSE
+rm_corr	-0.247	75.0	0.030486311282725498	[-0.45, -0.02]	0.587	MDZ_5hydroxyMDZ	TRUE
+rm_corr	-0.222	75.0	0.052825589789791884	[-0.42, 0.0]	0.496	MDZ_hydroxyMDZ_glucuronide	FALSE
+rm_corr	-0.485	75.0	7.805199312088981e-06	[-0.64, -0.29]	0.996	OME1_Omeprazole	TRUE
+rm_corr	-0.413	75.0	0.00018854385706993602	[-0.58, -0.21]	0.967	OME3_Omeprazole_sulfide	TRUE
+rm_corr	-0.331	75.0	0.003285913086516502	[-0.52, -0.12]	0.845	OME4_Omeprazole_sulfone	TRUE
+rm_corr	-0.381	75.0	0.0006364604920450753	[-0.56, -0.17]	0.934	OME5_Hydroxyomeprazole	TRUE
+rm_corr	-0.34	75.0	0.0025203433432006376	[-0.52, -0.13]	0.864	OME7_Hydroxyomeprazole_sulfide	TRUE
+rm_corr	-0.257	75.0	0.02385838192414804	[-0.46, -0.04]	0.625	OME11_Carboxyomeprazole	TRUE
+rm_corr	0.007	75.0	0.954891153425902	[-0.22, 0.23]	0.05	OME13_Carboxyomeprazole_sulfide	FALSE
+rm_corr	-0.476	75.0	1.2243040674093582e-05	[-0.63, -0.28]	0.994	OME15_Carboxyomeprazole_sulfone	TRUE
+rm_corr	0.033	75.0	0.7727813282593244	[-0.19, 0.26]	0.059	OME17_5_O_desmethylomeprazole	FALSE
+rm_corr	-0.329	75.0	0.0034809174333159604	[-0.52, -0.11]	0.841	OME1920_O_desmethylomeprazole_sulfide	TRUE
+rm_corr	-0.329	75.0	0.0035174994162169917	[-0.51, -0.11]	0.84	OME27_Omeprazole_sulfide_O_glucuronide	TRUE
+rm_corr	-0.418	75.0	0.0001579309877944623	[-0.59, -0.21]	0.97	OME29_Omeprazole_sulfide_4_O_glucuronide	TRUE

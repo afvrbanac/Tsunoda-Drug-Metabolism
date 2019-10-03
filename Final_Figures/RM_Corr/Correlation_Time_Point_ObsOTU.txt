@@ -1,0 +1,23 @@
+	r	dof	pval	CI95%	power	name	sig
+rm_corr	-0.607	75.0	4.865204397264827e-09	[-0.73, -0.44]	1.0	observed_otus	TRUE
+rm_corr	0.13	75.0	0.26044633561614466	[-0.1, 0.34]	0.204	creatinine	FALSE
+rm_corr	0.129	75.0	0.2650050308988878	[-0.1, 0.34]	0.201	CAF_caffeine	FALSE
+rm_corr	0.116	75.0	0.3131168038758623	[-0.11, 0.33]	0.173	DEX_dextromethorphan	FALSE
+rm_corr	0.326	75.0	0.003761705230660276	[0.11, 0.51]	0.834	MDZ_midazolam	TRUE
+rm_corr	0.188	75.0	0.1012810116980771	[-0.04, 0.4]	0.377	CAF_methylxanthine	FALSE
+rm_corr	0.108	75.0	0.3507048147304229	[-0.12, 0.32]	0.155	DEX_3hydroxymorphinan	FALSE
+rm_corr	0.127	75.0	0.27116347122396894	[-0.1, 0.34]	0.197	DEX_3methoxymorphinan	FALSE
+rm_corr	0.188	75.0	0.10131088775666466	[-0.04, 0.4]	0.377	MDZ_5hydroxyMDZ	FALSE
+rm_corr	0.192	75.0	0.0939090383611881	[-0.03, 0.4]	0.391	MDZ_hydroxyMDZ_glucuronide	FALSE
+rm_corr	0.193	75.0	0.09312480366564806	[-0.03, 0.4]	0.393	OME1_Omeprazole	FALSE
+rm_corr	0.21	75.0	0.06641562495523844	[-0.01, 0.41]	0.455	OME3_Omeprazole_sulfide	FALSE
+rm_corr	0.172	75.0	0.13514768836321758	[-0.05, 0.38]	0.323	OME4_Omeprazole_sulfone	FALSE
+rm_corr	0.087	75.0	0.4516979218240187	[-0.14, 0.31]	0.117	OME5_Hydroxyomeprazole	FALSE
+rm_corr	0.206	75.0	0.07255500875224992	[-0.02, 0.41]	0.439	OME7_Hydroxyomeprazole_sulfide	FALSE
+rm_corr	0.089	75.0	0.4406052639943546	[-0.14, 0.31]	0.121	OME11_Carboxyomeprazole	FALSE
+rm_corr	-0.089	75.0	0.4406406202692945	[-0.31, 0.14]	0.121	OME13_Carboxyomeprazole_sulfide	FALSE
+rm_corr	0.301	75.0	0.007911000320101166	[0.08, 0.49]	0.765	OME15_Carboxyomeprazole_sulfone	TRUE
+rm_corr	-0.179	75.0	0.11835199912135191	[-0.39, 0.05]	0.348	OME17_5_O_desmethylomeprazole	FALSE
+rm_corr	0.125	75.0	0.27781727533696965	[-0.1, 0.34]	0.193	OME1920_O_desmethylomeprazole_sulfide	FALSE
+rm_corr	0.124	75.0	0.2833252655077549	[-0.1, 0.34]	0.19	OME27_Omeprazole_sulfide_O_glucuronide	FALSE
+rm_corr	0.15	75.0	0.19273111188348496	[-0.08, 0.36]	0.258	OME29_Omeprazole_sulfide_4_O_glucuronide	FALSE
